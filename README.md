@@ -1,1 +1,1 @@
-# Chi-chat
+# Chit-chat
